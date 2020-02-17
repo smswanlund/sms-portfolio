@@ -1,5 +1,6 @@
 body{
-    background-image: url("/assets/wall-bricks-220182.jpg");
+    background-image: url("../assets/wall-bricks-220182.JPG");
+    background-color: grey;
 }
 
 a{
@@ -23,6 +24,7 @@ a:hover{
     padding: 5%;
     background-color:rgb(83, 90, 97);
     color: rgb(248, 241, 236);
+    min-height: 300px;
 }
 
 .display-6 {
