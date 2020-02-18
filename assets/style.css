@@ -1,5 +1,8 @@
 body{
     background-image: url("../assets/wall-bricks-220182.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     background-color: grey;
 }
 
